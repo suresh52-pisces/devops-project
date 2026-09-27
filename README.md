@@ -1,5 +1,5 @@
 # DevOps Project
-This project demonstrates an end-to-end DevOps pipeline.
+This project demonstrates an enterprise-style DevOps delivery pipeline.
 ## Project
 
 This repository contains an end-to-end DevOps learning project.
